@@ -1,4 +1,4 @@
-<h1 align="center">sup? 👋</h1>
+<!-- <h1 align="center">Hi👋</h1> -->
 
 <p align="center"> <img src="developer.gif" alt="developer"/> </p> 
 
