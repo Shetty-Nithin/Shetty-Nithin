@@ -15,10 +15,11 @@
     const Name = 'Nithin Shetty';
     let Interests = ['Coding','Coding','Coding','Coding','Coding', ... ];
     
-    let current_goal = (success) => {
-        if(success) return;
-        current_goal(success);
+    let try_again = (result) => {
+        if(result === "success") return;
+        try_again(result);
     }
+    // with never ending call stack memory
 ```
 <br/>
     
