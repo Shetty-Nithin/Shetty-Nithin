@@ -61,7 +61,7 @@
       
 <img src="leetcode-img.webp" width="25" align="left"/><b>```Leetcode stats```</b>
 <p float="left">
-<img height="273em" src="https://leetcard.jacoblin.cool/NithinShetty?theme=light&font=Karma&ext=contest" />
+<img height="273em" src="https://leetcard.jacoblin.cool/NithinShetty?theme=light&font=Karma&ext=heatmap" />
 </p>
 </br>
       
