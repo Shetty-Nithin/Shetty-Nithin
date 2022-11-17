@@ -55,7 +55,7 @@
       
 <img src="https://cdn-icons-png.flaticon.com/512/2175/2175377.png" width="25" align="left"/><b>```⚡ Github Stats```</b>
 <p float="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shetty-nithin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="shetty-nithin"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shetty-Nithin&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="Shetty-Nithin"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shetty-nithin&layout=compact&langs_count=8&show_icons=true&hide_border=true"/>
 </p>
 </br>
