@@ -3,7 +3,7 @@
 <p align="center"> <img src="developer.gif" alt="developer"/> </p> 
 
 - 🏢 I'm currently working at __Alstom__
-- 🔭 __9am-5pm__ : I'm working for Alstom <img align="center" width="15" src="https://cdn-icons-png.flaticon.com/512/3483/3483305.png"> __5pm-9am__ : I'm working on my dreams
+- 🔭 __5pm-9am__ : I'm working on my dreams
 - 🌱 I’m currently learning __Software Development__
 - 👯 I’m looking to collaborate with people with __dreams__
 
